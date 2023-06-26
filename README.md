@@ -44,3 +44,23 @@ Looking forward to exploring new possibilities and making a positive impact thro
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken-027&" alt="ken-027" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken-027&label=Profile%20views&color=0e75b6&style=flat" alt="ken-027" /> </p>
+
+##
+### Portfolios
+- 🗏 [Laravel E-commerce Admin](https://github.com/ken-027/laravel-ecommerce-admin)
+- 🗏 [Laravel Simple Job Posting](https://github.com/ken-027/laravelfindeasyjob)
+- 🗏 [Laravel Simple Invoice CRUD](https://github.com/ken-027/laravelinvoicecrud)
+- 🗏 [Wilson Work Landing Page](https://kenneth-andales.github.io/wilson-works)
+- 🗏 [Libre Landing Page](https://kenneth-andales.github.io/libre)
+- 🗏 [Educat Landing Page](https://kenneth-andales.github.io/educat)
+- 🗏 [Agency Match Landing Page](https://kenneth-andales.github.io/agency-match)
+- 🗏 [Trabook Landing Page](https://kenneth-andales.github.io/trabook)
+- 🗏 [Eversky Landing Page](https://kenneth-andales.github.io/eversky)
+- 🗏 [Mangago Android App](https://kenneth-andales.github.io/android-mangago/release/app-release.apk)
+- 🗏 [9anime Android App](https://kenneth-andales.github.io/android-9anime/release/app-release.apk)
+- 🗏 [Laravel Simple Order Rest Api](https://github.com/ken-027/laravel-orderapi)
+- 🗏 [Express Simple Recipe Rest Api](https://github.com/ken-027/express-recipe)
+- 🗏 [Express Simple User CRUD Api](https://github.com/ken-027/express-recipe)
+- 🗏 [React Simple Recipe SPA](https://github.com/ken-027/react-recipe)
+- 🗏 [MERN Simple CRUD App](https://github.com/ken-027/mernobjectiveapp)
+
