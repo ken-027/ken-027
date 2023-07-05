@@ -40,27 +40,28 @@ Looking forward to exploring new possibilities and making a positive impact thro
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken-027&" alt="ken-027" /></p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ken-027&label=Profile%20views&color=blue&style=flat" alt="ken-027" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken-027&label=Profile%20views&color=blue&style=flat" alt="ken-027" /> </p> -->
 
 ##
 
-### Portfolios
-<img alt="Portfolios" src="https://img.shields.io/badge/Portfolios-17-darkgreen" />
+<!-- ### Portfolios -->
+<img alt="Portfolios" src="https://img.shields.io/badge/Portfolios-18-darkgreen" />
 
-- 🗏 [Laravel E-commerce Admin](https://github.com/ken-027/laravel-ecommerce-admin)
-- 🗏 [Laravel Simple Job Posting](https://github.com/ken-027/laravelfindeasyjob)
-- 🗏 [Laravel Simple Invoice CRUD](https://github.com/ken-027/laravelinvoicecrud)
-- 🗏 [Wilson Work Landing Page](https://kenneth-andales.github.io/wilson-works)
-- 🗏 [Libre Landing Page](https://kenneth-andales.github.io/libre)
-- 🗏 [Educat Landing Page](https://kenneth-andales.github.io/educat)
-- 🗏 [Agency Match Landing Page](https://kenneth-andales.github.io/agency-match)
-- 🗏 [Trabook Landing Page](https://kenneth-andales.github.io/trabook)
-- 🗏 [Eversky Landing Page](https://kenneth-andales.github.io/eversky)
-- 🗏 [Mangago Android App](https://kenneth-andales.github.io/android-mangago/release/app-release.apk)
-- 🗏 [9anime Android App](https://kenneth-andales.github.io/android-9anime/release/app-release.apk)
-- 🗏 [Laravel Simple Order Rest Api](https://github.com/ken-027/laravel-orderapi)
-- 🗏 [Express Simple Recipe Rest Api](https://github.com/ken-027/express-recipe)
-- 🗏 [Express Simple User CRUD Api](https://github.com/ken-027/express-recipe)
-- 🗏 [React Simple Recipe SPA](https://github.com/ken-027/react-recipe)
-- 🗏 [MERN Simple CRUD App](https://github.com/ken-027/mernobjectiveapp)
-- 🗏 [Laravel Simple Travel Rest Api](https://github.com/ken-027/travel-api)
+- [x] 🗏 [Laravel E-commerce Admin](https://github.com/ken-027/laravel-ecommerce-admin)
+- [x] 🗏 [Laravel Simple Job Posting](https://github.com/ken-027/laravelfindeasyjob)
+- [x] 🗏 [Laravel Simple Invoice CRUD](https://github.com/ken-027/laravelinvoicecrud)
+- [x] 🗏 [Wilson Work Landing Page](https://kenneth-andales.github.io/wilson-works)
+- [x] 🗏 [Libre Landing Page](https://kenneth-andales.github.io/libre)
+- [x] 🗏 [Educat Landing Page](https://kenneth-andales.github.io/educat)
+- [x] 🗏 [Agency Match Landing Page](https://kenneth-andales.github.io/agency-match)
+- [x] 🗏 [Trabook Landing Page](https://kenneth-andales.github.io/trabook)
+- [x] 🗏 [Eversky Landing Page](https://kenneth-andales.github.io/eversky)
+- [x] 🗏 [Mangago Android App](https://kenneth-andales.github.io/android-mangago/release/app-release.apk)
+- [x] 🗏 [9anime Android App](https://kenneth-andales.github.io/android-9anime/release/app-release.apk)
+- [x] 🗏 [Laravel Simple Order Rest Api](https://github.com/ken-027/laravel-orderapi)
+- [x] 🗏 [Express Simple Recipe Rest Api](https://github.com/ken-027/express-recipe)
+- [x] 🗏 [Express Simple User CRUD Api](https://github.com/ken-027/express-recipe)
+- [x] 🗏 [React Simple Recipe SPA](https://github.com/ken-027/react-recipe)
+- [x] 🗏 [MERN Simple CRUD App](https://github.com/ken-027/mernobjectiveapp)
+- [x] 🗏 [Laravel Simple Travel Rest Api](https://github.com/ken-027/travel-api)
+- [x] 🗏 [Laravel Recipe Api](https://github.com/ken-027/laravel-recipe-api)
