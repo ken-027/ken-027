@@ -39,8 +39,9 @@ Looking forward to exploring new possibilities and making a positive impact thro
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken-027&" alt="ken-027" /></p>
 
-<img src="https://www.codewars.com/users/ken@27/badges/large" />
-
+<p align="left">
+  <img src="https://www.codewars.com/users/ken@27/badges/small" alt="Codewars ken@27" />
+</p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken-027&label=Profile%20views&color=blue&style=flat" alt="ken-027" /> </p> -->
 
 ##
