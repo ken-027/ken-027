@@ -57,7 +57,6 @@ Looking forward to exploring new possibilities and making a positive impact thro
 - [x] 🗏 [Educat Landing Page](https://kenneth-andales.github.io/educat)
 - [x] 🗏 [Agency Match Landing Page](https://kenneth-andales.github.io/agency-match)
 - [x] 🗏 [Trabook Landing Page](https://kenneth-andales.github.io/trabook)
-- [x] 🗏 [Eversky Landing Page](https://kenneth-andales.github.io/eversky)
 - [x] 🗏 [Mangago Android App](https://kenneth-andales.github.io/android-mangago/release/app-release.apk)
 - [x] 🗏 [9anime Android App](https://kenneth-andales.github.io/android-9anime/release/app-release.apk)
 - [x] 🗏 [Laravel Simple Order Rest Api](https://github.com/ken-027/laravel-orderapi)
