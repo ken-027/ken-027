@@ -82,7 +82,7 @@ I'm <b>Kenneth</b>, a Software Developer with 3+ years of experience building sc
 <p>
 <a href="mailto:keanolida7296@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Email-EA4335?&style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <!-- <a href="https://twitter.com/whyme_27" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  -->
-<a href="https://www.linkedin.com/in/kenneth-andales-20ba62240/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/kenneth-andales" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 <!-- <a href="https://www.instagram.com/kenolitan/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
 <a href="https://www.upwork.com/freelancers/~0135c2e932c50f312f" target="_blank"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44?&style=for-the-badge&logo=upwork&logoColor=white" /></a>
 </p>
