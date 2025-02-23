@@ -32,7 +32,7 @@ I'm <b>Kenneth</b>, a Software Developer with 3+ years of experience building sc
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📄 Know about my experiences [**My Resume**](https://kenneth-andales.github.io/resume/php-web-developer.pdf)
+📄 Know about my experiences [**My Resume**](https://kenneth-andales.github.io/resume/software-developer.pdf)
 </br>
 
 ## Skills
