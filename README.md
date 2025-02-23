@@ -52,6 +52,7 @@ I'm <b>Kenneth</b>, a Software Developer with 3+ years of experience building sc
 ![react](https://img.shields.io/badge/React%20Js-61DAFB?style=for-the-badge&logo=react&logoColor=000) 
 ![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)
 ![nextdotjs](https://img.shields.io/badge/NextJS-21201e?style=for-the-badge&logo=nextdotjs&logoColor=fff) 
+![express](https://img.shields.io/badge/ExpressJS-21201e?style=for-the-badge&logo=express&logoColor=fff) 
 ![laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=fff) 
 ![codeigniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=fff) 
 ![ASP.Net](https://img.shields.io/badge/ASP.Net-512BD4?style=for-the-badge&logo=dotnet&logoColor=fff) 
