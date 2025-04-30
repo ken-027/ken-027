@@ -100,26 +100,3 @@ I'm <b>Kenneth</b>, a Software Developer with 3+ years of experience building sc
   <img src="https://www.codewars.com/users/ken@27/badges/small" alt="Codewars ken@27" />
 </p>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ken-027&label=Profile%20views&color=blue&style=flat" alt="ken-027" /> </p> -->
-
-##
-
-<!-- ### Portfolios -->
-<img alt="Portfolios" src="https://img.shields.io/badge/Portfolios-18-darkgreen" />
-
-- [x] 🗏 [Laravel E-commerce Admin](https://github.com/ken-027/laravel-ecommerce-admin)
-- [x] 🗏 [Laravel Simple Job Posting](https://github.com/ken-027/laravelfindeasyjob)
-- [x] 🗏 [Laravel Simple Invoice CRUD](https://github.com/ken-027/laravelinvoicecrud)
-- [x] 🗏 [Wilson Work Landing Page](https://kenneth-andales.github.io/wilson-works)
-- [x] 🗏 [Libre Landing Page](https://kenneth-andales.github.io/libre)
-- [x] 🗏 [Educat Landing Page](https://kenneth-andales.github.io/educat)
-- [x] 🗏 [Agency Match Landing Page](https://kenneth-andales.github.io/agency-match)
-- [x] 🗏 [Trabook Landing Page](https://kenneth-andales.github.io/trabook)
-- [x] 🗏 [Mangago Android App](https://kenneth-andales.github.io/android-mangago/release/app-release.apk)
-- [x] 🗏 [9anime Android App](https://kenneth-andales.github.io/android-9anime/release/app-release.apk)
-- [x] 🗏 [Laravel Simple Order Rest Api](https://github.com/ken-027/laravel-orderapi)
-- [x] 🗏 [Express Simple Recipe Rest Api](https://github.com/ken-027/express-recipe)
-- [x] 🗏 [Express Simple User CRUD Api](https://github.com/ken-027/express-recipe)
-- [x] 🗏 [React Simple Recipe SPA](https://github.com/ken-027/react-recipe)
-- [x] 🗏 [MERN Simple CRUD App](https://github.com/ken-027/mernobjectiveapp)
-- [x] 🗏 [Laravel Simple Travel Rest Api](https://github.com/ken-027/travel-api)
-- [x] 🗏 [Laravel Recipe Api](https://github.com/ken-027/laravel-recipe-api)
