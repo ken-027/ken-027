@@ -32,7 +32,7 @@ I'm <b>Kenneth</b>, a Software Developer with 3+ years of experience building sc
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📄 Know about my experiences [**My Resume**](https://kenneth-andales.github.io/resume/software-developer.pdf)
+📄 Know about my experiences [**My Resume**](https://portfolio-api.ksoftdev.site/resume/software-developer.pdf)
 </br>
 
 ## Skills
@@ -96,6 +96,8 @@ I'm <b>Kenneth</b>, a Software Developer with 3+ years of experience building sc
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ken-027&show_icons=true&locale=en" alt="ken-027" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ken-027&" alt="ken-027" /></p>
+
+<a href="https://github.com/ken-027" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ken-027&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="left">
   <img src="https://www.codewars.com/users/ken@27/badges/small" alt="Codewars ken@27" />
