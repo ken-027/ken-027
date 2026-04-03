@@ -91,6 +91,6 @@ Currently **freelancing** — helping startups build new features, refactor mess
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%" />
 
-<img src="https://komarev.com/ghpvc/?username=ken-027&style=flat-square&color=6366F1&label=profile+views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ken-027&style=flat-square&color=6366F1&label=profile+views" /> -->
 
 </div>
