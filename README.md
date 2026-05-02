@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Kenneth%20Andales&fontSize=42&fontColor=0F172A&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer&descSize=16&descAlignY=85&descColor=c7d2fe" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=120&section=header&text=Kenneth%20Andales&fontSize=42&fontColor=0F172A&fontAlignY=65&animation=fadeIn&desc=Full%20Stack%20Developer%20%C2%B7%20kdevtech.com&descSize=16&descAlignY=85&descColor=c7d2fe" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=500&lines=React+%2B+Express.js+%2B+TypeScript;Node.js+%2B+PostgreSQL;Core+Banking+%C2%B7+E-Commerce+%C2%B7+SaaS+Platforms;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=React+%2B+Express.js+%2B+TypeScript;Node.js+%2B+PostgreSQL;Core+Banking+%C2%B7+E-Commerce+%C2%B7+SaaS+Platforms;Portfolio+Management+%C2%B7+Dev+Services;Open+to+Remote+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://kdevtech.com"><img src="https://img.shields.io/badge/Portfolio-kdevtech.com-6366F1?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+<a href="https://kdevtech.com"><img src="https://img.shields.io/badge/🏠%20KDevTech-kdevtech.com-6366F1?style=flat-square&logoColor=white" /></a>&nbsp;
+<a href="https://kenneth-andales.kdevtech.com"><img src="https://img.shields.io/badge/👤%20Portfolio-kenneth--andales.kdevtech.com-6366F1?style=flat-square&logoColor=white" /></a>&nbsp;
+<a href="https://dashboard.kdevtech.com"><img src="https://img.shields.io/badge/📊%20Dashboard-dashboard.kdevtech.com-818CF8?style=flat-square&logoColor=white" /></a>&nbsp;
+<a href="https://services.kdevtech.com"><img src="https://img.shields.io/badge/🛠%20Services-services.kdevtech.com-818CF8?style=flat-square&logoColor=white" /></a>
+
+<br/><br/>
+
 <a href="https://www.linkedin.com/in/kenneth-andales"><img src="https://img.shields.io/badge/LinkedIn-kenneth--andales-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:keanolida7296@gmail.com"><img src="https://img.shields.io/badge/Email-keanolida7296@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>&nbsp;
 <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22C55E?style=flat-square&logoColor=white" />
@@ -19,17 +25,29 @@
 
 ## 👋 About Me
 
-Full Stack Developer with **3+ years** shipping production systems across cooperative banking, e-commerce, and government platforms. I care about clean architecture, reliable delivery, and code that teams can maintain long-term.
+Full Stack Developer with **4+ years** shipping production systems across cooperative banking, e-commerce, and government platforms. I care about clean architecture, reliable delivery, and code that teams can maintain long-term.
 
-Currently **freelancing** — helping startups build new features, refactor messy codebases, and get production-stable with confidence.
+Currently **freelancing** under **[KDevTech](https://kdevtech.com)** — helping startups build new features, refactor messy codebases, and ship production-stable products with confidence.
 
 | | |
 |---|---|
 | 🌏 **Location** | Northern Samar, Philippines · Remote-first |
 | 🏦 **Recent Work** | Core banking UI — National Confederation of Cooperatives |
+| 💼 **Freelance Brand** | [kdevtech.com](https://kdevtech.com) |
 | 🤖 **Workflow** | AI-assisted development with Cursor & Claude Code |
 | 🎓 **Education** | B.S. Information Technology · Palawan State University |
 | 🗓️ **Building Since** | 2018 |
+
+---
+
+## 🌐 My Sites
+
+| Site | Description |
+|------|-------------|
+| [**kdevtech.com**](https://kdevtech.com) | Main brand — KDevTech home |
+| [**kenneth-andales.kdevtech.com**](https://kenneth-andales.kdevtech.com) | Personal developer portfolio & case studies |
+| [**dashboard.kdevtech.com**](https://dashboard.kdevtech.com) | Portfolio management dashboard |
+| [**services.kdevtech.com**](https://services.kdevtech.com) | Full stack development services & offerings |
 
 ---
 
@@ -87,10 +105,22 @@ Currently **freelancing** — helping startups build new features, refactor mess
 
 ---
 
+## 🤝 Work With Me
+
+> Looking to build something solid? I work with startups and small teams to ship reliable, maintainable software.
+
+<div align="center">
+
+<a href="https://services.kdevtech.com"><img src="https://img.shields.io/badge/View%20Services-services.kdevtech.com-6366F1?style=for-the-badge&logoColor=white" /></a>&nbsp;
+<a href="https://kenneth-andales.kdevtech.com"><img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-818CF8?style=for-the-badge&logoColor=white" /></a>&nbsp;
+<a href="mailto:keanolida7296@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=80&section=footer" width="100%" />
-
-<!-- <img src="https://komarev.com/ghpvc/?username=ken-027&style=flat-square&color=6366F1&label=profile+views" /> -->
 
 </div>
