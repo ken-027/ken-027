@@ -11,7 +11,6 @@
 <a href="https://kdevtech.com"><img src="https://img.shields.io/badge/🏠%20KDevTech-kdevtech.com-6366F1?style=flat-square&logoColor=white" /></a>&nbsp;
 <a href="https://kenneth-andales.kdevtech.com"><img src="https://img.shields.io/badge/👤%20Portfolio-kenneth--andales.kdevtech.com-6366F1?style=flat-square&logoColor=white" /></a>&nbsp;
 <a href="https://dashboard.kdevtech.com"><img src="https://img.shields.io/badge/📊%20Dashboard-dashboard.kdevtech.com-818CF8?style=flat-square&logoColor=white" /></a>&nbsp;
-<a href="https://services.kdevtech.com"><img src="https://img.shields.io/badge/🛠%20Services-services.kdevtech.com-818CF8?style=flat-square&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -32,7 +31,7 @@ Currently **freelancing** under **[KDevTech](https://kdevtech.com)** — helping
 | | |
 |---|---|
 | 🌏 **Location** | Northern Samar, Philippines · Remote-first |
-| 🏦 **Recent Work** | Core banking UI — National Confederation of Cooperatives |
+| 🏦 **Recent Work** | SaaS Apps — Soft Dev Digital LLC |
 | 💼 **Freelance Brand** | [kdevtech.com](https://kdevtech.com) |
 | 🤖 **Workflow** | AI-assisted development with Cursor & Claude Code |
 | 🎓 **Education** | B.S. Information Technology · Palawan State University |
@@ -111,7 +110,6 @@ Currently **freelancing** under **[KDevTech](https://kdevtech.com)** — helping
 
 <div align="center">
 
-<!-- <a href="https://services.kdevtech.com"><img src="https://img.shields.io/badge/View%20Services-services.kdevtech.com-6366F1?style=for-the-badge&logoColor=white" /></a>&nbsp; -->
 <a href="https://kenneth-andales.kdevtech.com"><img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-818CF8?style=for-the-badge&logoColor=white" /></a>&nbsp;
 <a href="mailto:keanolida7296@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
