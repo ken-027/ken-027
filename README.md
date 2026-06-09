@@ -47,7 +47,6 @@ Currently **freelancing** under **[KDevTech](https://kdevtech.com)** — helping
 | [**kdevtech.com**](https://kdevtech.com) | Main brand — KDevTech home |
 | [**kenneth-andales.kdevtech.com**](https://kenneth-andales.kdevtech.com) | Personal developer portfolio & case studies |
 | [**dashboard.kdevtech.com**](https://dashboard.kdevtech.com) | Portfolio management dashboard |
-| [**services.kdevtech.com**](https://services.kdevtech.com) | Full stack development services & offerings |
 
 ---
 
@@ -85,6 +84,7 @@ Currently **freelancing** under **[KDevTech](https://kdevtech.com)** — helping
 
 **AI Coding Tools**
 
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
@@ -111,7 +111,7 @@ Currently **freelancing** under **[KDevTech](https://kdevtech.com)** — helping
 
 <div align="center">
 
-<a href="https://services.kdevtech.com"><img src="https://img.shields.io/badge/View%20Services-services.kdevtech.com-6366F1?style=for-the-badge&logoColor=white" /></a>&nbsp;
+<!-- <a href="https://services.kdevtech.com"><img src="https://img.shields.io/badge/View%20Services-services.kdevtech.com-6366F1?style=for-the-badge&logoColor=white" /></a>&nbsp; -->
 <a href="https://kenneth-andales.kdevtech.com"><img src="https://img.shields.io/badge/See%20My%20Work-Portfolio-818CF8?style=for-the-badge&logoColor=white" /></a>&nbsp;
 <a href="mailto:keanolida7296@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
